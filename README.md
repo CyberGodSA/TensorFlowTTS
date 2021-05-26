@@ -1,8 +1,8 @@
-<h1> This is a fork of TensorFlowTTS(https://github.com/TensorSpeech/TensorFlowTTS) with Russian Language support </h1>
+# This is a fork of TensorFlowTTS (https://github.com/TensorSpeech/TensorFlowTTS) with Russian Language support
 
 Russian Dataset used for training: https://ruslan-corpus.github.io/ 
 
-#### Additional packages: 
+#### Additional packages that schould be installed manually: 
 - https://github.com/nsu-ai/russian_g2p used to transform text to phonemes
 - nltk (import nltk; nltk.dowload("punkt")) 
 

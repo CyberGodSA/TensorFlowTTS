@@ -8,6 +8,7 @@ Russian Dataset used for training: https://ruslan-corpus.github.io/
 
 
 #### TODO list:
+- Upload pretrained models
 - Insert `Additional packages` instalation in setup.py
 - Replace NLTK
 - Add Ukrainian language support

@@ -1,4 +1,4 @@
-<h1> This is a fork of TensorFlowTTS (https://github.com/TensorSpeech/TensorFlowTTS) with added Russian Language support </h1>
+<h1> This is a fork of TensorFlowTTS (https://github.com/TensorSpeech/TensorFlowTTS) with Russian Language support </h1>
 
 <h2 align="center">
 <p> :yum: TensorFlowTTS
